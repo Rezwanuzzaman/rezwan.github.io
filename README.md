@@ -1,2 +1,2 @@
-# rezwanuzzaman.github.io
-Official website of Rezwanuzzaman Laskar
+# rlaskar.github.io
+Official website of Dr Rezwanuzzaman Laskar, PhD
